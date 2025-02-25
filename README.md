@@ -1,4 +1,4 @@
-#Virtual Labs Introduction
+# Virtual Labs Introduction
 
 Virtual Labs, a Ministry of Education project under NMEICT, offers free remote laboratory
 learning experiences. Workshops and nodal centers support institute partnerships within the
@@ -12,15 +12,16 @@ presented as websites with interactive content aimed at enhancing learning outco
 structure of each experiment follows principles of pedagogy, ensuring that the content effectively
 supports learning objectives.
 
-#Virtual Labs Impact
+# Virtual Labs Impact
 
 The Virtual Labs currently only reports usage data from Jan-2020 onwards. In the 5 years, 17
 Million users have come to the Virtual Labs platform and have visited more than 120 Million
 pages.
 
-#Virtual Labs Stakeholders
+# Virtual Labs Stakeholders
 
 Following is the list of the primary stakeholders of Virtual Labs:
+
 1. Students and Learners: Use the experiments with the objective of learning a topic
 interactively.
 2. Teachers and Educators: Use the experiments as part of their courses.
@@ -33,5 +34,4 @@ developers
 geographical region
 6. Nodal Centers: Promote the use of Virtual Labs in their respective institutes
 7. VLEAD Team: Develops and operates all technology related aspects of the Virtual Labs
-platform including infrastructure, operations, tools development etc. Please check here
-to know more about VLEAD
+platform including infrastructure, operations, tools development etc.
